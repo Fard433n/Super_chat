@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "55751535957",
+    "firebase_url": "https://chota-e029d.firebaseio.com",
+    "project_id": "chota-e029d",
+    "storage_bucket": "chota-e029d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:55751535957:android:5070024220c435875ed3dc",
+        "android_client_info": {
+          "package_name": "co.shahidd.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "55751535957-lpgr6rr5oqkc5043nk25st9bbak47kij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZNS-dkGXuHA-Y_dEMjOx_K_uNKO_nnxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "55751535957-lpgr6rr5oqkc5043nk25st9bbak47kij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
